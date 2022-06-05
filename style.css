@@ -1,0 +1,21 @@
+h1 {
+    background-color: rgba(128, 0, 128, 0.76);
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(252, 151, 230, 0.685)
+}
+
+ul.main-list li {
+    text-align: center;
+    background-color: rgb(233, 176, 238, 0.342);
+}
+
+.food {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+}
